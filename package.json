@@ -1,0 +1,30 @@
+{
+  "name": "cyso",
+  "version": "1.0.0",
+  "description": "A demo project for CySo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poorvasha/MongoDB.git"
+  },
+  "keywords": [
+    "MongoDb",
+    "Mongoose",
+    "Mocha",
+    "nodemon"
+  ],
+  "author": "Poorvasha Murugavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poorvasha/MongoDB/issues"
+  },
+  "homepage": "https://github.com/poorvasha/MongoDB#readme",
+  "dependencies": {
+    "mocha": "^8.1.1",
+    "mongoose": "^5.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
